@@ -1,8 +1,8 @@
-# Генерация текста по графу знаний
+# Knowledge Graph-to-text generation
 
-Компонент реализован на основе [KGPT](https://arxiv.org/pdf/2010.02307.pdf).
+The component is primarily implemented with [KGPT](https://arxiv.org/pdf/2010.02307.pdf).
 
-Примеры генерации:
+Examples:
 
 **QUERY**:
 
